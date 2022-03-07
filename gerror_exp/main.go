@@ -5,7 +5,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/cf-guardian/guardian/gerror"
+	"github.com/Naga2HPE/go-examples/gerror_exp/pkg/gerror"
+	//"github.com/cf-guardian/guardian/gerror"
 )
 
 /*
